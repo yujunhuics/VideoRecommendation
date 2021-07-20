@@ -7,8 +7,8 @@
 [赛题链接](https://developer.huawei.com/consumer/cn/activity/devStarAI/algo/competition.html#/preliminary/info/006/introduction)
 
 ## 使用方法
-process.py:生成tfrecord数据。
+1、process.py:生成tfrecord数据。
 
-train_model.py:训练模型
+2、train_model.py:训练模型
 
 3、predict.py:预测结果
